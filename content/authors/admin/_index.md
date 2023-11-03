@@ -89,10 +89,10 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: huwt@bupt.edu.cn
   - icon: twitter
     icon_pack: fab
-    link: [https://twitter.com/GeorgeCushen](https://twitter.com/VincentHu_19)
+    link: https://twitter.com/VincentHu_19
     label: Follow me on Twitter
     display:
       header: true
