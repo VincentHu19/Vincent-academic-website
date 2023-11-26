@@ -52,34 +52,39 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Linux
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 80
+        icon: linux
         icon_pack: fas
-      - name: SQL
+      - name: Data processing
         description: ''
-        percent: 40
+        percent: 60
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Football
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 90
+        icon: futbol
         icon_pack: fas
-      - name: Cats
+      - name: Music
         description: ''
-        percent: 100
-        icon: cat
+        percent: 90
+        icon: music
         icon_pack: fas
-      - name: Photography
+      - name: Movies
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 90
+        icon: film
+        icon_pack: fas
+      - name: Fitness
+        description: ''
+        percent: 90
+        icon: dumbbell
         icon_pack: fas
 
 # Social/Academic Networking
