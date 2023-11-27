@@ -31,6 +31,7 @@ bio: My research interests include few-shot learning, diffusion model, NeRF.
 interests:
   - Machine Learning
   - Computer Vision
+  - Human Face Synthesis
 
 # Education to show in About widget
 education:
@@ -56,7 +57,7 @@ skills:
         description: ''
         percent: 80
         icon: linux
-        icon_pack: fas
+        icon_pack: fab
       - name: Data processing
         description: ''
         percent: 60
